@@ -1,0 +1,11 @@
+
+##################################
+
+Kids menu
+
+  1. HappyMeal             $25
+  2. Potatoes              $30
+  3. Omlette               $22
+  4. Nuggets               $15
+  5. Sausages              $20
+  6. Fries                 $30

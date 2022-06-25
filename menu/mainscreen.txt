@@ -1,0 +1,14 @@
+
+##################################
+  
+  Welcome to the eatery
+
+##################################
+
+  Main menu
+  1. Breakfast menu
+  2. Lunch Menu
+  3. Dinner
+  4. Kids meal
+  5. Dessert
+

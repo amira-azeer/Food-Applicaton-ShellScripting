@@ -1,0 +1,11 @@
+
+##################################
+
+Lunch menu
+
+  1. Rice                  $25
+  2. Salad                 $10
+  3. Pasta                 $22
+  4. Noodles               $15
+  5. Pizza                 $25
+  6. Burger                $20

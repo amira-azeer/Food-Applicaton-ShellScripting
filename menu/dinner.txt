@@ -1,0 +1,11 @@
+
+##################################
+
+Dinner menu
+
+  1. Pizza                 $25
+  2. Burger                $20
+  3. Salad                 $10
+  4. Wings                 $15
+  5. Veggies               $20
+  6. Pancakes              $30

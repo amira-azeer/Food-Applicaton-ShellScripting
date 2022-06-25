@@ -1,0 +1,11 @@
+
+##################################
+
+Dessert menu
+
+  1. Tiramisu              $25
+  2. Brownies              $30
+  3. Cake                  $22
+  4. Fruits                $15
+  5. Cheesecake            $20
+  6. Waffles               $30

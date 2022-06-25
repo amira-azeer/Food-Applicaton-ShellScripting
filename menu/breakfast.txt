@@ -1,0 +1,11 @@
+
+##################################
+
+Breakfast menu
+
+  1. Bacon                 $30
+  2. Sandwich              $30
+  3. Coffee                $20
+  4. Rolls                 $15
+  5. Cereal                $20
+  6. Pancakes              $30
